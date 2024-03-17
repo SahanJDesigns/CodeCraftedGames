@@ -1,0 +1,16 @@
+This game is optimized for 1920x1080 diaplay. Use a 1920x1080 display for a better experiance. 
+
+Battle log will be also displayed as a text file. It will be updated after each battle.
+
+You can find the battle log of Scorpion (username: scorpion@uom) vs GeraldofRivia (username: whitewolf) in the same file.
+
+The current users are;
+	Scorpion : scorpion@uom
+	Jack Sparrow : jack@blackpearl
+	Voldemort : youknowwho
+
+DO NOT DELETE THE Database.ser or THE UserID.ser FILES.
+Deleting these files will result in removing the current users and resetting the UserIDs.
+
+						
+						~Scorpion~

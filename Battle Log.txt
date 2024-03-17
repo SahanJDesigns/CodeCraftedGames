@@ -1,0 +1,117 @@
+
+***********************************************************************************
+		Legolas VS Voldemote
+***********************************************************************************
+
+Turn 1: Legolas
+Warlock of Legolas attacks Shooter of Voldemote
+Voldemote's Shooter's health: 0.4
+Legolas's Warlock's health: 10.0
+
+Turn 1: Voldemote
+Shooter of Voldemote attacks Shooter of Legolas
+Legolas's Shooter's health: 0.9
+Voldemote's Shooter's health: 0.4
+
+Turn 2: Legolas
+Shooter of Legolas attacks Shooter of Voldemote
+Voldemote's Shooter's health: 0.0
+Legolas's Shooter's health: 0.9
+Voldemote's Shooter died! 
+
+Turn 2: Voldemote
+Squire of Voldemote attacks Shooter of Legolas
+Legolas's Shooter's health: 0.0
+Voldemote's Squire's health: 7.0
+Legolas's Shooter died! 
+
+Turn 3: Legolas
+Squire of Legolas attacks Soother of Voldemote
+Voldemote's Soother's health: 5.8
+Legolas's Squire's health: 7.0
+
+Turn 3: Voldemote
+Dragon of Voldemote attacks Soother of Legolas
+Legolas's Soother's health: 4.3
+Voldemote's Dragon's health: 15.0
+
+Turn 4: Legolas
+Dragon of Legolas attacks Soother of Voldemote
+Voldemote's Soother's health: 1.1
+Legolas's Dragon's health: 15.0
+
+Turn 4: Voldemote
+Soother of Voldemote heals Soother of Voldemote
+Voldemote's Soother's health: 2.0
+
+Turn 5: Legolas
+Soother of Legolas heals Soother of Legolas
+Legolas's Soother's health: 5.2
+
+Turn 5: Voldemote
+Illusionist of Voldemote attacks Soother of Legolas
+Legolas's Soother's health: 0.0
+Voldemote's Illusionist's health: 12.0
+Legolas's Soother died! 
+
+Turn 6: Legolas
+Warlock of Legolas attacks Soother of Voldemote
+Voldemote's Soother's health: 0.0
+Legolas's Warlock's health: 10.0
+Voldemote's Soother died! 
+
+Turn 6: Voldemote
+Squire of Voldemote attacks Warlock of Legolas
+Legolas's Warlock's health: 6.9
+Voldemote's Squire's health: 7.0
+
+Turn 7: Legolas
+Squire of Legolas attacks Illusionist of Voldemote
+Voldemote's Illusionist's health: 8.8
+Legolas's Squire's health: 7.0
+
+Turn 7: Voldemote
+Dragon of Voldemote attacks Warlock of Legolas
+Legolas's Warlock's health: 2.3
+Voldemote's Dragon's health: 15.0
+
+Turn 8: Legolas
+Dragon of Legolas attacks Illusionist of Voldemote
+Voldemote's Illusionist's health: 4.1
+Legolas's Dragon's health: 15.0
+
+Turn 8: Voldemote
+Illusionist of Voldemote attacks Warlock of Legolas
+Legolas's Warlock's health: 0.0
+Voldemote's Illusionist's health: 4.1
+Legolas's Warlock died! 
+
+Turn 9: Legolas
+Squire of Legolas attacks Illusionist of Voldemote
+Voldemote's Illusionist's health: 0.9
+Legolas's Squire's health: 7.0
+
+Turn 9: Voldemote
+Squire of Voldemote attacks Squire of Legolas
+Legolas's Squire's health: 4.1
+Voldemote's Squire's health: 7.0
+
+Turn 10: Legolas
+Dragon of Legolas attacks Illusionist of Voldemote
+Voldemote's Illusionist's health: 0.0
+Legolas's Dragon's health: 15.0
+Voldemote's Illusionist died! 
+
+Turn 10: Voldemote
+Dragon of Voldemote attacks Squire of Legolas
+Legolas's Squire's health: 0.0
+Voldemote's Dragon's health: 15.0
+Legolas's Squire died! 
+
+
+***********************************************************************************
+		   Draw!
+***********************************************************************************
+
+Legolas	XP: 0	Gold Coins :8
+Voldemote	XP: 0	Gold Coins :0

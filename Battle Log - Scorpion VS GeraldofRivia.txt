@@ -1,0 +1,117 @@
+
+***********************************************************************************
+		Scorpion VS GeraltofRivia
+***********************************************************************************
+
+Turn 1: Scorpion
+Warlock of Scorpion attacks Ranger of GeraltofRivia
+GeraltofRivia's Ranger's health: 2.6
+Scorpion's Warlock's health: 10.0
+
+Turn 1: GeraltofRivia
+Warlock of GeraltofRivia attacks Shooter of Scorpion
+Scorpion's Shooter's health: 0.4
+GeraltofRivia's Warlock's health: 10.0
+
+Turn 2: Scorpion
+Shooter of Scorpion attacks Ranger of GeraltofRivia
+GeraltofRivia's Ranger's health: 0.0
+Scorpion's Shooter's health: 0.4
+GeraltofRivia's Ranger died! 
+
+Turn 2: GeraltofRivia
+Squire of GeraltofRivia attacks Shooter of Scorpion
+Scorpion's Shooter's health: 0.0
+GeraltofRivia's Squire's health: 7.0
+Scorpion's Shooter died! 
+
+Turn 3: Scorpion
+Squire of Scorpion attacks Medic of GeraltofRivia
+GeraltofRivia's Medic's health: 7.8
+Scorpion's Squire's health: 7.0
+
+Turn 3: GeraltofRivia
+Dragon of GeraltofRivia attacks Soother of Scorpion
+Scorpion's Soother's health: 4.3
+GeraltofRivia's Dragon's health: 15.0
+
+Turn 4: Scorpion
+Dragon of Scorpion attacks Medic of GeraltofRivia
+GeraltofRivia's Medic's health: 3.1
+Scorpion's Dragon's health: 15.0
+
+Turn 4: GeraltofRivia
+Medic of GeraltofRivia heals Medic of GeraltofRivia
+GeraltofRivia's Medic's health: 4.4
+
+Turn 5: Scorpion
+Soother of Scorpion heals Soother of Scorpion
+Scorpion's Soother's health: 5.2
+
+Turn 5: GeraltofRivia
+Warlock of GeraltofRivia attacks Soother of Scorpion
+Scorpion's Soother's health: 0.0
+GeraltofRivia's Warlock's health: 10.0
+Scorpion's Soother died! 
+
+Turn 6: Scorpion
+Warlock of Scorpion attacks Medic of GeraltofRivia
+GeraltofRivia's Medic's health: 0.0
+Scorpion's Warlock's health: 10.0
+GeraltofRivia's Medic died! 
+
+Turn 6: GeraltofRivia
+Squire of GeraltofRivia attacks Warlock of Scorpion
+Scorpion's Warlock's health: 6.9
+GeraltofRivia's Squire's health: 7.0
+
+Turn 7: Scorpion
+Squire of Scorpion attacks Warlock of GeraltofRivia
+GeraltofRivia's Warlock's health: 6.9
+Scorpion's Squire's health: 7.0
+
+Turn 7: GeraltofRivia
+Dragon of GeraltofRivia attacks Warlock of Scorpion
+Scorpion's Warlock's health: 2.3
+GeraltofRivia's Dragon's health: 15.0
+
+Turn 8: Scorpion
+Dragon of Scorpion attacks Warlock of GeraltofRivia
+GeraltofRivia's Warlock's health: 2.3
+Scorpion's Dragon's health: 15.0
+
+Turn 8: GeraltofRivia
+Warlock of GeraltofRivia attacks Warlock of Scorpion
+Scorpion's Warlock's health: 0.0
+GeraltofRivia's Warlock's health: 2.3
+Scorpion's Warlock died! 
+
+Turn 9: Scorpion
+Squire of Scorpion attacks Warlock of GeraltofRivia
+GeraltofRivia's Warlock's health: 0.0
+Scorpion's Squire's health: 7.0
+GeraltofRivia's Warlock died! 
+
+Turn 9: GeraltofRivia
+Squire of GeraltofRivia attacks Squire of Scorpion
+Scorpion's Squire's health: 4.1
+GeraltofRivia's Squire's health: 7.0
+
+Turn 10: Scorpion
+Dragon of Scorpion attacks Squire of GeraltofRivia
+GeraltofRivia's Squire's health: 2.6
+Scorpion's Dragon's health: 15.0
+
+Turn 10: GeraltofRivia
+Dragon of GeraltofRivia attacks Squire of Scorpion
+Scorpion's Squire's health: 0.0
+GeraltofRivia's Dragon's health: 15.0
+Scorpion's Squire died! 
+
+
+***********************************************************************************
+		   Draw!
+***********************************************************************************
+
+Scorpion	XP: 0	Gold Coins :20
+GeraltofRivia	XP: 32	Gold Coins :215
