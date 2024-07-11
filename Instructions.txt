@@ -10,7 +10,7 @@ The current users are;
 	Voldemort : youknowwho
 
 DO NOT DELETE THE Database.ser or THE UserID.ser FILES.
-Deleting these files will result in removing the current users and resetting the UserIDs.
+Deleting these files will result in removing the current users and resetting the UserIDs...
 
 						
 						~Scorpion~
